@@ -12,4 +12,5 @@ run with `./run.sh`
 * SDL2
 * TinyCC (libtcc)
 * GLEW
+* CMake
 
